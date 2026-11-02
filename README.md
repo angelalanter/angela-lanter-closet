@@ -1,6 +1,8 @@
 # Angela Lanter's ShopMy closet
 
 A one-page site: tap a piece or a handwritten label in Angela's bedroom photo to open her ShopMy shelf.
+Live at **https://angela-lanter-closet.vercel.app/**
+
 Built from [annanoellerinke/shopmy-closet-guide](https://github.com/annanoellerinke/shopmy-closet-guide).
 
 | File | What it's for |

@@ -8,7 +8,7 @@ const SITE = {
   tagline: 'hello gorgeous',
   hint: 'tap a piece to shop',
   description: "Shop Angela Lanter's favorite style, beauty and home finds. Tap a piece to open her ShopMy shelf.",
-  destination: '', // production URL, e.g. https://angela-lanter-closet.vercel.app/ (set after first deploy)
+  destination: 'https://angela-lanter-closet.vercel.app/', // production URL
   fallback: 'https://shopmy.us/angelalanter',
 };
 
